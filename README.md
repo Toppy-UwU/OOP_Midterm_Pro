@@ -6,3 +6,7 @@ to calculate volume of gas in each block of area
 
 Don't mind if anyone use this to learn how OOP work
 but i'm not recommend!!!
+##Sample Picture
+![alt text](final/finui.png) 
+##Sample Picture Again
+![alt text](FinalGasgas/finui.png) 
