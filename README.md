@@ -8,5 +8,3 @@ Don't mind if anyone use this to learn how OOP work
 but i'm not recommend!!!
 ## Sample Picture
 ![alt text](final/finui.png) 
-## Sample Picture Again
-![alt text](FinalGasAss/finui.png) 
